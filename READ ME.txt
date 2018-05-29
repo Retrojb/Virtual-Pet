@@ -1,9 +1,4 @@
-#Virtual Pet
-
-uses tick method to control number of turns 
- tests are now void due to mass overhaul of program...
- 
- *********READ ME Virtual Pet***************
+*********READ ME Virtual Pet***************
 ***John Baltes*******Project 2 Virtual Pet******github.com/Retrojb***
 _____________________________________________
 

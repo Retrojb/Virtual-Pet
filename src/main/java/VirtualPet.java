@@ -1,6 +1,3 @@
-import java.time.Clock;
-import java.time.Duration;
-import java.util.concurrent.CountDownLatch;
 
 public class virtualPet {
 	public static final int BASE = 50;
